@@ -9,7 +9,7 @@ support the SKILL.md standard.
 Using [`npx skills`](https://www.npmjs.com/package/skills):
 
 ```
-npx skills add harshwardhan/skills --skill mascot-variants
+npx skills add harshwardhan847/skills --skill mascot-variants
 ```
 
 ## Available skills
@@ -30,7 +30,7 @@ repo layout. No `openai` npm dependency is required — it uses Node's native
 #### Install
 
 ```
-npx skills add harshwardhan/skills --skill mascot-variants
+npx skills add harshwardhan847/skills --skill mascot-variants
 ```
 
 This drops the skill (`SKILL.md` + `driver.mjs`) into your agent's skills
