@@ -1,0 +1,4 @@
+.openai-key
+*.key
+.DS_Store
+node_modules/
